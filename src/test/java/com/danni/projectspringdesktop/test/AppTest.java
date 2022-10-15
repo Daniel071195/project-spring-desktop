@@ -1,4 +1,4 @@
-package com.danni.project_spring_desktop;
+package com.danni.projectspringdesktop.test;
 
 import static org.junit.Assert.assertTrue;
 
